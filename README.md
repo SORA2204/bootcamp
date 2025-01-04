@@ -1,2 +1,1 @@
-# bootcamp
-drumkit project 
+# bootcamp 
